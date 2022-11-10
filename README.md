@@ -1,9 +1,4 @@
-### Eae! Sou o Julio Cezar
-
-- 🖥️ Desenvolvedor Back-end
-- ⌨️ Estudando Python / JavaScript
-- 🖱️  Programador Júnior
-
+### Eae! Sou o Julio Cezar, programador Júnior !
 
 <div align="center">
   <a href="https://github.com/muddyorc">
