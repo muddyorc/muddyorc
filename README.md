@@ -1,4 +1,4 @@
-### Eae! Sou o Julio Cezar, programador Júnior !
+### Eae! Sou o Julio Cezar, programador Trainee !
 
 <div align="center">
   <a href="https://github.com/muddyorc">
