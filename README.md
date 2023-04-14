@@ -16,7 +16,6 @@
 
 <div> 
   <a href="https://instagram.com/julio_c.r.c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juliocrc109@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
   
   ![Snake animation](https://github.com/muddyorc/muddyorc/blob/output/github-contribution-grid-snake.svg)
