@@ -29,4 +29,3 @@ Como estudante de Engenharia de Software, detenho formação técnica em Anális
 - LinkedIn: [Julio Cezar](https://www.linkedin.com/in/julio-cezar-b875b1257/)
 - Email: Juliocrc109@gmail.com
 
-Estou disponível para colaborações e oportunidades no campo da Engenharia de Software e no desenvolvimento de sistemas!
