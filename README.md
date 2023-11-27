@@ -25,7 +25,7 @@ Como estudante de Engenharia de Software, detenho formação técnica em Anális
 
 - *Inteligência Artificial (IA): Apaixonado por aprendizado autônomo e IA, busco constantemente novas tecnologias e metodologias para expandir meu conhecimento na área de tecnologia.*
 
-## Contato
+## Contato Profissional
 - LinkedIn: [Julio Cezar](https://www.linkedin.com/in/julio-cezar-b875b1257/)
 - Email: Juliocrc109@gmail.com
 
