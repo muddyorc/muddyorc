@@ -1,27 +1,32 @@
-### Eae! Sou o Julio Cezar, programador Trainee !
+### Eae! Sou o Julio Cezar!
 
-<div align="center">
-  <a href="https://github.com/muddyorc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuddyOrc&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuddyOrc&layout=compact&langs_count=7&theme=dark">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Julio-DJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Julio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Julio-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-           
+## Sobre mim
+Como estudante de Engenharia de Software, detenho formação técnica em Análise e Desenvolvimento de Sistemas. Possuo habilidades em Python, Java, JS, MySQL, e experiência em diversos frameworks para o desenvolvimento de software em geral. Estou em busca de oportunidades para aprimorar minhas habilidades de programação e contribuir para projetos significativos, visando a melhoria contínua na área.
+
+## Conhecimentos
+<div style="display: flex; flexalign-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h3>Meus Conhecimentos</h3>
+    <ul>
+      <li><strong>Full-Stack:</strong> Python, Django, Bootstrap, Java, JavaScript, HTML, CSS, SQL, Shell Script.</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <h3>Estatísticas do GitHub</h3>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuddyOrc&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuddyOrc&layout=compact&langs_count=7&theme=dark">
+  </div>
 </div>
 
-##
+## Interesses
+- *Desenvolvimento FullStack: Exploro front-end e back-end com HTML, CSS, Bootstrap, Python, Java e Django para criar aplicações web completas.*
 
-<div> 
-  <a href="https://instagram.com/julio_c.r.c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:juliocrc109@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-cezar-b875b1257/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/muddyorc/muddyorc/blob/output/github-contribution-grid-snake.svg)
-</div>
+- *Desenvolvimento de Games: Mergulho no mundo do desenvolvimento de jogos, utilizando frameworks e linguagens dedicadas para criar experiências interativas.*
+
+- *Inteligência Artificial (IA): Apaixonado por aprendizado autônomo e IA, busco constantemente novas tecnologias e metodologias para expandir meu conhecimento na área de tecnologia.*
+
+## Contato
+- LinkedIn: [Julio Cezar](https://www.linkedin.com/in/julio-cezar-b875b1257/)
+- Email: Juliocrc109@gmail.com
+
+Estou disponível para colaborações e oportunidades no campo da Engenharia de Software e no desenvolvimento de sistemas!
